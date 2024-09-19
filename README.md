@@ -84,8 +84,6 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
   </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szeyu&theme=tokyo-night)
-
 ### Leetcode
   <div align="center">
 
