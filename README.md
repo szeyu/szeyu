@@ -3,13 +3,28 @@
 </h1>
 
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=szeyu&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  <a href="https://bento.me/szeyusim">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-  <a href="https://www.linkedin.com/in/szeyusim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
-  </a>
+<img src="https://komarev.com/ghpvc/?username=szeyu&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+<a href="https://bento.me/szeyusim">
+ <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+</a>
+<a href="https://www.linkedin.com/in/szeyusim/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
+</a>
+<a href="https://github.com/szeyu">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:22px;">
+</a>
+<a href="mailto:szeyusim@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
+</a>
+<a href="https://www.instagram.com/szeyusim/">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:22px;">
+</a>
+<a href="https://szeyusim.medium.com">
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height:22px;">
+</a>
+<a href="https://www.kaggle.com/ssyokbruh">
+ <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" style="height:22px;">
+</a>
 </div>
 
 ## About Me
