@@ -37,8 +37,8 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 
 
 ### Academics
-<span><img src="https://img.shields.io/badge/BTECH-[Universiti Malaya]-1877F2?style=for-the-badge"></span>
-<span><img src="https://img.shields.io/badge/GPA-[3.96]-EFEEE9?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/Uni-[Universiti Malaya]-1877F2?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/CGPA-[3.96]-EFEEE9?style=for-the-badge"></span>
 
 ### Experience
 
