@@ -40,13 +40,26 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 <span><img src="https://img.shields.io/badge/Uni-[Universiti Malaya]-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/CGPA-[3.98]-EFEEE9?style=for-the-badge"></span>
 
-### Experience
+### Working Experience
 
 | Position | Company | Duration | Description |
 |----------|---------|----------|-------------|
 | AI Fullstack Developer Intern | EmbeddedLLM | 1 July 2024 - 30 September 2024 | LLM |
 | Intern | Techtics Solution Sdn Bhd | 1 April 2024 - 26 June 2024 | Blockchain |
 
+### Hackathon Experience
+
+| Position | Hackathon | Duration | Description | Link |
+|----------|-----------|----------|-------------|------|
+| Top 10 Finalist | Deriv Hack 24 | 2024 | AI eKYC Project | [https://github.com/szeyu/Deriv-Hack](https://github.com/szeyu/Deriv-Hack) |
+| Top 15 Finalist | Setel Hack 24 | 2024 | AI-powered Chatbot for Retail | [https://github.com/szeyu/SetelHack24-AiMaaS](https://github.com/szeyu/SetelHack24-AiMaaS) |
+| Participant | PayHack 24 | 2024 | FinScope Project | [](#) |
+| Participant | MYHackathon24 Cohort 1 | 2024 | A stackoverflow like website for public complaint | [https://github.com/szeyu/sepadu-underflow](https://github.com/szeyu/sepadu-underflow) |
+| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [](#) |
+| Participant | IHAX 24 | 2024 | A marketplace of PDF embedding which consist of learning materials | [https://github.com/szeyu/IHAX-2024-HMIR](https://github.com/szeyu/IHAX-2024-HMIR) |
+| Participant | UMHackathon 24 | 2024 | Chat RAG with personal finance data | [https://github.com/szeyu/PHMIR_umHack](https://github.com/szeyu/PHMIR_umHack) |
+| Participant | KitaHack 24 | 2024 | Daily RUOK for daily mental health screening | [https://github.com/szeyu/Daily-RUOK](https://github.com/szeyu/Daily-RUOK) |
+| Participant | 1st Day Hack | 2022 | Allow people who are blind to move to other places which they haven't went before without guidance and assistance for other people. | [https://github.com/szeyu/1st_Day_Hack](https://github.com/szeyu/1st_Day_Hack) |
 
 ## Tech Stacks
 <table>
@@ -114,30 +127,17 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
   </tr>
   <tr>
     <td>
-<!--       <img src="https://github.com/szeyu/GenAI-WebAppEditor/raw/main/logo.png" width="100" height="100"><br> -->
-      <a href="https://github.com/szeyu/GenAI-WebAppEditor">GenAI-WebAppEditor</a>
+      <a href="https://github.com/szeyu/Vector-Search-From-Scratch">Vector Search From Scratch</a>
     </td>
-    <td>A web application that leverages generative AI to create and edit webpages dynamically. Users can describe a webpage in natural language, generate the corresponding HTML, CSS, and JavaScript, and interactively edit specific elements of the page.</td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-    </td>
-  </tr>
-  <tr>
-    <td>
-<!--       <img src="https://github.com/szeyu/ChatWithPDF/raw/main/logo.png" width="100" height="100"><br> -->
-      <a href="https://github.com/szeyu/ChatWithPDF">ChatWithPDF</a>
-    </td>
-    <td>A Streamlit app which allows you to chat with your own PDF.</td>
+    <td>This repository implements a vector search solution based on image and text embeddings. Users can search for similar products using an image or a textual description.</td>
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
     </td>
   </tr>
   <tr>
     <td>
-<!--       <img src="https://github.com/szeyu/streamlit-authentication-template/raw/main/logo.png" width="100" height="100"><br> -->
       <a href="https://github.com/szeyu/streamlit-authentication-template">streamlit-authentication-template</a>
     </td>
     <td>A Streamlit template which handles login and stores user data in a PostgreSQL database. It manages navigation among login state, signup state and app state with authentication through database management.</td>
@@ -149,7 +149,38 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
   </tr>
   <tr>
     <td>
-<!--       <img src="https://github.com/szeyu/aischeduler/raw/main/logo.png" width="100" height="100"><br> -->
+      <a href="https://github.com/szeyu/streamlit-oauth-template">streamlit-oauth-template</a>
+    </td>
+    <td>A streamlit template which is able to handle the login using oauth. It also handles the navigation among login state and app state.</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat&logo=google&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td>
+      <a href="https://github.com/szeyu/GenAI-WebAppEditor">GenAI-WebAppEditor</a>
+    </td>
+    <td>A web application that leverages generative AI to create and edit webpages dynamically. Users can describe a webpage in natural language, generate the corresponding HTML, CSS, and JavaScript, and interactively edit specific elements of the page.</td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/szeyu/ChatWithPDF">ChatWithPDF</a>
+    </td>
+    <td>A Streamlit app which allows you to chat with your own PDF.</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+    </td>
+  </tr>
+    <td>
       <a href="https://github.com/szeyu/aischeduler">aischeduler</a>
     </td>
     <td>AI Scheduler is a web application built with Vite, React, and TypeScript to help users manage their schedules efficiently.</td>
