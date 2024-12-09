@@ -89,12 +89,48 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
     </td>
   </tr>
   <tr>
+    <td>Databases</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/-Firebase-FFCB2F?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+      <img src="https://img.shields.io/badge/-Firestore-FFCB2F?style=flat&logo=firebase&logoColor=white" alt="Firestore">
+    </td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Firebase-FFCB2F?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+    </td>
+  </tr>
+  <tr>
+    <td>AI APIs</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Google Gemini-4285F4?style=flat&logo=google&logoColor=white" alt="Google Gemini">
+      <img src="https://img.shields.io/badge/-Hugging Face-FF4B4B?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
+      <img src="https://img.shields.io/badge/-OpenAI-343434?style=flat&logo=openai&logoColor=white" alt="OpenAI">
+    </td>
+  </tr>
+  <tr>
     <td>Tools</td>
     <td>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     </td>
   </tr>
+  <tr>
+    <td>Low/No Code</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/-GitHub Copilot-58D6B1?style=flat&logo=github&logoColor=white" alt="GitHub Copilot">
+      <img src="https://img.shields.io/badge/-ChatGPT-0061F2?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
+      <img src="https://img.shields.io/badge/-JamaiBase-FF6A5C?style=flat&logoColor=white" alt="JamaiBase">
+      <img src="https://img.shields.io/badge/-Flowise-2F79C1?style=flat&logo=flowise&logoColor=white" alt="Flowise">
+    </td>
+  </tr>
 </table>
+
+
+
 
 ## 📊 Stats
 
