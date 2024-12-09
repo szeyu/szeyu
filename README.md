@@ -35,33 +35,13 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 - 😎 Nickname: ssyok
 - ⚡ Fun fact: I am from Penang Island 🏝️
 
-
 ### Academics
 <span><img src="https://img.shields.io/badge/Uni-[Universiti Malaya]-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/CGPA-[3.98]-EFEEE9?style=for-the-badge"></span>
 
-### Working Experience
-
-| Position | Company | Duration | Description |
-|----------|---------|----------|-------------|
-| AI Fullstack Developer Intern | EmbeddedLLM | 1 July 2024 - 30 September 2024 | LLM |
-| Intern | Techtics Solution Sdn Bhd | 1 April 2024 - 26 June 2024 | Blockchain |
-
-### Hackathon Experience
-
-| Position | Hackathon | Duration | Description | Link |
-|----------|-----------|----------|-------------|------|
-| Top 10 Finalist | Deriv Hack 24 | 2024 | AI eKYC Project | [https://github.com/szeyu/Deriv-Hack](https://github.com/szeyu/Deriv-Hack) |
-| Top 15 Finalist | Setel Hack 24 | 2024 | AI-powered Chatbot for Retail | [https://github.com/szeyu/SetelHack24-AiMaaS](https://github.com/szeyu/SetelHack24-AiMaaS) |
-| Participant | PayHack 24 | 2024 | FinScope Project | [](#) |
-| Participant | MYHackathon24 Cohort 1 | 2024 | A stackoverflow like website for public complaint | [https://github.com/szeyu/sepadu-underflow](https://github.com/szeyu/sepadu-underflow) |
-| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [](#) |
-| Participant | IHAX 24 | 2024 | A marketplace of PDF embedding which consist of learning materials | [https://github.com/szeyu/IHAX-2024-HMIR](https://github.com/szeyu/IHAX-2024-HMIR) |
-| Participant | UMHackathon 24 | 2024 | Chat RAG with personal finance data | [https://github.com/szeyu/PHMIR_umHack](https://github.com/szeyu/PHMIR_umHack) |
-| Participant | KitaHack 24 | 2024 | Daily RUOK for daily mental health screening | [https://github.com/szeyu/Daily-RUOK](https://github.com/szeyu/Daily-RUOK) |
-| Participant | 1st Day Hack | 2022 | Allow people who are blind to move to other places which they haven't went before without guidance and assistance for other people. | [https://github.com/szeyu/1st_Day_Hack](https://github.com/szeyu/1st_Day_Hack) |
-
 ## Tech Stacks
+<details>
+  <summary>Click to expand Tech Stacks</summary>
 <table>
   <tr>
     <th>Category</th>
@@ -128,7 +108,7 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
     </td>
   </tr>
 </table>
-
+</details>
 
 
 
@@ -154,6 +134,27 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
   ![LeetCode Stats](https://leetcode.card.workers.dev/szeyusim?theme=auto&font=baloo&extension=null)
 
   </div>
+
+### Working Experience
+
+| Position | Company | Duration | Description |
+|----------|---------|----------|-------------|
+| AI Fullstack Developer Intern | EmbeddedLLM | 1 July 2024 - 30 September 2024 | LLM |
+| Intern | Techtics Solution Sdn Bhd | 1 April 2024 - 26 June 2024 | Blockchain |
+
+### Hackathon Experience
+
+| Position | Hackathon | Duration | Description | Link |
+|----------|-----------|----------|-------------|------|
+| Top 10 Finalist | Deriv Hack 24 | 2024 | AI eKYC Project | [https://github.com/szeyu/Deriv-Hack](https://github.com/szeyu/Deriv-Hack) |
+| Top 15 Finalist | Setel Hack 24 | 2024 | AI-powered Chatbot for Retail | [https://github.com/szeyu/SetelHack24-AiMaaS](https://github.com/szeyu/SetelHack24-AiMaaS) |
+| Participant | PayHack 24 | 2024 | FinScope Project | [](#) |
+| Participant | MYHackathon24 Cohort 1 | 2024 | A stackoverflow like website for public complaint | [https://github.com/szeyu/sepadu-underflow](https://github.com/szeyu/sepadu-underflow) |
+| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [](#) |
+| Participant | IHAX 24 | 2024 | A marketplace of PDF embedding which consist of learning materials | [https://github.com/szeyu/IHAX-2024-HMIR](https://github.com/szeyu/IHAX-2024-HMIR) |
+| Participant | UMHackathon 24 | 2024 | Chat RAG with personal finance data | [https://github.com/szeyu/PHMIR_umHack](https://github.com/szeyu/PHMIR_umHack) |
+| Participant | KitaHack 24 | 2024 | Daily RUOK for daily mental health screening | [https://github.com/szeyu/Daily-RUOK](https://github.com/szeyu/Daily-RUOK) |
+| Participant | 1st Day Hack | 2022 | Allow people who are blind to move to other places which they haven't went before without guidance and assistance for other people. | [https://github.com/szeyu/1st_Day_Hack](https://github.com/szeyu/1st_Day_Hack) |
 
 <table>
   <tr>
