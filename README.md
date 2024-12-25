@@ -75,6 +75,7 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/-Firebase-FFCB2F?style=flat&logo=firebase&logoColor=white" alt="Firebase">
       <img src="https://img.shields.io/badge/-Firestore-FFCB2F?style=flat&logo=firebase&logoColor=white" alt="Firestore">
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
     </td>
   </tr>
   <tr>
