@@ -150,9 +150,10 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 | Chamption | UM Datathon 24 | 2024 | Bitcoin Quant Algo Trading | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/UMDatathon-24) |
 | Top 10 Finalist | Deriv Hack 24 | 2024 | AI eKYC Project | [https://github.com/szeyu/Deriv-Hack](https://github.com/szeyu/Deriv-Hack) |
 | Top 15 Finalist | Setel Hack 24 | 2024 | AI-powered Chatbot for Retail | [https://github.com/szeyu/SetelHack24-AiMaaS](https://github.com/szeyu/SetelHack24-AiMaaS) |
-| Participant | PayHack 24 | 2024 | FinScope Project | [](#) |
+| Pariciptant | GodamLah 24 | 2024 | AI eKYC Project (enhanced) | [https://github.com/szeyu/godamlah](https://github.com/szeyu/godamlah) |
+| Participant | PayHack 24 | 2024 | FinScope Project | [Figma Pitch Deck](https://www.figma.com/slides/MufVO3sqMea8EsumCE1kjP/FinScope-(Pitch-Deck)?node-id=25-19&t=mDYAVsJ3J9f5okOa-1) |
 | Participant | MYHackathon24 Cohort 1 | 2024 | A stackoverflow like website for public complaint | [https://github.com/szeyu/sepadu-underflow](https://github.com/szeyu/sepadu-underflow) |
-| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [](#) |
+| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [Drive Folder](https://drive.google.com/drive/folders/166w-dbR2m_pwjuXoyDbcI3gAv0X-Z2kB?usp=sharing) |
 | Participant | IHAX 24 | 2024 | A marketplace of PDF embedding which consist of learning materials | [https://github.com/szeyu/IHAX-2024-HMIR](https://github.com/szeyu/IHAX-2024-HMIR) |
 | Participant | UMHackathon 24 | 2024 | Chat RAG with personal finance data | [https://github.com/szeyu/PHMIR_umHack](https://github.com/szeyu/PHMIR_umHack) |
 | Participant | KitaHack 24 | 2024 | Daily RUOK for daily mental health screening | [https://github.com/szeyu/Daily-RUOK](https://github.com/szeyu/Daily-RUOK) |
