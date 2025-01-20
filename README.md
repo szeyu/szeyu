@@ -27,6 +27,12 @@
 </a>
 </div>
 
+<div align='center'>
+  <a href='https://ko-fi.com/S6S419B72M'>
+    <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Support Me on Ko-fi'/>
+  </a>
+</div>
+
 ## About Me
 Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I love to explore new technologies and work on exciting projects.
 
