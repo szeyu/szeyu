@@ -27,10 +27,20 @@
 </a>
 </div>
 
+<br/>
+
 <div align='center'>
-  <a href='https://ko-fi.com/S6S419B72M'>
-    <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Support Me on Ko-fi'/>
-  </a>
+  <table>
+    <tr>
+      <td align='center'>
+        <h2>☕️ Love my work? Support me on Ko-fi! 💖</h2>
+        <a href='https://ko-fi.com/S6S419B72M'>
+          <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Support Me on Ko-fi'/>
+        </a>
+        <p><i>Your support keeps the code flowing and the projects growing! 🚀</i></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## About Me
