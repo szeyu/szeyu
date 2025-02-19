@@ -163,6 +163,7 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
+| Participant | Deriv hack 25 | 2025 | AI Agent that streamline Dispute Resolution using OCR and cross checking with agentic tools calling | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/DerivAIHack25) |
 | Chamption | UM Datathon 24 | 2024 | Bitcoin Quant Algo Trading | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/UMDatathon-24) |
 | Top 10 Finalist | Deriv Hack 24 | 2024 | AI eKYC Project | [https://github.com/szeyu/Deriv-Hack](https://github.com/szeyu/Deriv-Hack) |
 | Top 15 Finalist | Setel Hack 24 | 2024 | AI-powered Chatbot for Retail | [https://github.com/szeyu/SetelHack24-AiMaaS](https://github.com/szeyu/SetelHack24-AiMaaS) |
