@@ -156,6 +156,7 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Company | Duration | Description |
 |----------|---------|----------|-------------|
+| Data Analytics Intern | YTL AI Labs | 11 April 2025 - 30 June 2025 | Data Analaytics |
 | AI Fullstack Developer Intern | EmbeddedLLM | 1 July 2024 - 30 September 2024 | LLM |
 | Intern | Techtics Solution Sdn Bhd | 1 April 2024 - 26 June 2024 | Blockchain |
 
@@ -163,6 +164,7 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
+| 1st Runner Up | UMHackathon 25 | 2025 | A blockchain-powered, AI-enhanced, Shariah-compliant donation platform ensuring transparency, ethical investment, and milestone-driven disbursement | [https://github.com/szeyu/AmanahBlock](https://github.com/szeyu/AmanahBlock) |
 | Participant | Deriv hack 25 | 2025 | AI Agent that streamline Dispute Resolution using OCR and cross checking with agentic tools calling | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/DerivAIHack25) |
 | Chamption | UM Datathon 24 | 2024 | Bitcoin Quant Algo Trading | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/UMDatathon-24) |
 | Top 10 Finalist | Deriv Hack 24 | 2024 | AI eKYC Project | [https://github.com/szeyu/Deriv-Hack](https://github.com/szeyu/Deriv-Hack) |
