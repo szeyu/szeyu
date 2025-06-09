@@ -164,6 +164,10 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
+| Consolation Prize | UKM Data Challenge 25 | 2025 | Data Insight on population and the water stress across all states in Malaysia | [https://github.com/szeyu/UKMDataChallenge25](https://github.com/szeyu/UKMDataChallenge25) |
+| 2nd Runner Up | Alibaba Cloud Malaysia AI Hackathon 25 | 2025 | FundSight AI to provide you grant recommendation for SME Malaysia using RAG from the data source found online | [https://github.com/szeyu/FundSight-Ai](https://github.com/szeyu/FundSight-Ai) |
+| 1st Runner Up | KitaHack 25 | 2025 | Medimate to improve healthcare management by providing real-time insights, medication tracking, and enhanced doctor-patient consultations | [https://github.com/szeyu/Medimate-v3](https://github.com/szeyu/Medimate-v3) |
+| Consolation Prize | VHack 25 | 2025 | Medimate to improve healthcare management by providing real-time insights, medication tracking, and enhanced doctor-patient consultations | [https://github.com/szeyu/Medimate-v3](https://github.com/szeyu/Medimate-v3) |
 | 1st Runner Up | UMHackathon 25 | 2025 | A blockchain-powered, AI-enhanced, Shariah-compliant donation platform ensuring transparency, ethical investment, and milestone-driven disbursement | [https://github.com/szeyu/AmanahBlock](https://github.com/szeyu/AmanahBlock) |
 | Participant | Deriv hack 25 | 2025 | AI Agent that streamline Dispute Resolution using OCR and cross checking with agentic tools calling | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/DerivAIHack25) |
 | Chamption | UM Datathon 24 | 2024 | Bitcoin Quant Algo Trading | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/UMDatathon-24) |
