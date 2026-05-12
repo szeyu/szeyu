@@ -156,6 +156,7 @@ Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Company | Duration | Description |
 |----------|---------|----------|-------------|
+| Data Engineer Intern | Ryt Bank | 28 July 2025 - 9 January 2026 | Data Engineer |
 | Data Intern | YTL AI Labs | 11 April 2025 - 30 June 2025 | Data |
 | AI Fullstack Developer Intern | EmbeddedLLM | 1 July 2024 - 30 September 2024 | LLM |
 | Intern | Techtics Solution Sdn Bhd | 1 April 2024 - 26 June 2024 | Blockchain |
