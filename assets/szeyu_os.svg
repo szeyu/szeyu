@@ -1,0 +1,138 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sze Yu OS profile card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 170) rotate(35) scale(430)">
+      <stop stop-color="#38BDF8" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 500) rotate(35) scale(360)">
+      <stop stop-color="#A78BFA" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <style>
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      }
+
+      .sans {
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      .card {
+        fill: rgba(15, 23, 42, 0.82);
+        stroke: rgba(148, 163, 184, 0.20);
+      }
+
+      .topbar {
+        fill: rgba(2, 6, 23, 0.72);
+        stroke: rgba(148, 163, 184, 0.14);
+      }
+
+      .panel {
+        fill: rgba(2, 6, 23, 0.30);
+        stroke: rgba(148, 163, 184, 0.12);
+      }
+
+      .white {
+        fill: #F8FAFC;
+      }
+
+      .muted {
+        fill: #94A3B8;
+      }
+
+      .dim {
+        fill: #64748B;
+      }
+
+      .cyan {
+        fill: #67E8F9;
+      }
+
+      .green {
+        fill: #86EFAC;
+      }
+
+      .violet {
+        fill: #C4B5FD;
+      }
+
+      .pink {
+        fill: #F9A8D4;
+      }
+
+      .line {
+        stroke: rgba(148, 163, 184, 0.16);
+      }
+
+      .softline {
+        stroke: rgba(148, 163, 184, 0.10);
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="620" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="620" rx="32" fill="url(#glowBlue)"/>
+  <rect width="1200" height="620" rx="32" fill="url(#glowViolet)"/>
+
+  <g filter="url(#shadow)" transform="translate(70 50)">
+    <rect width="1060" height="520" rx="26" class="card"/>
+
+    <rect x="0.5" y="0.5" width="1059" height="54" rx="25.5" class="topbar"/>
+    <circle cx="32" cy="27" r="7" fill="#F87171"/>
+    <circle cx="56" cy="27" r="7" fill="#FBBF24"/>
+    <circle cx="80" cy="27" r="7" fill="#34D399"/>
+
+    <text x="108" y="33" class="mono dim" font-size="15">terminal — profile</text>
+
+    <text x="44" y="118" class="sans white" font-size="42" font-weight="800">Sze Yu OS</text>
+    <text x="44" y="156" class="sans muted" font-size="18">A personal workspace for building finance, data, and automation systems.</text>
+
+    <line x1="44" y1="192" x2="1016" y2="192" class="line"/>
+
+    <g transform="translate(44 236)">
+      <text x="0" y="0" class="mono dim" font-size="16">$</text>
+      <text x="26" y="0" class="mono green" font-size="16">whoami</text>
+
+      <text x="0" y="52" class="mono cyan" font-size="16">role</text>
+      <text x="138" y="52" class="mono dim" font-size="16">=</text>
+      <text x="170" y="52" class="mono white" font-size="16">computer science student, system builder</text>
+
+      <text x="0" y="98" class="mono violet" font-size="16">focus</text>
+      <text x="138" y="98" class="mono dim" font-size="16">=</text>
+      <text x="170" y="98" class="mono white" font-size="16">data engineering, finance tooling, product prototypes</text>
+
+      <text x="0" y="144" class="mono pink" font-size="16">currently</text>
+      <text x="138" y="144" class="mono dim" font-size="16">=</text>
+      <text x="170" y="144" class="mono white" font-size="16">Vibe Quant, market data tools, AI-assisted workflows</text>
+
+      <text x="0" y="190" class="mono green" font-size="16">method</text>
+      <text x="138" y="190" class="mono dim" font-size="16">=</text>
+      <text x="170" y="190" class="mono white" font-size="16">build, test, write, refine, ship</text>
+
+      <text x="0" y="236" class="mono cyan" font-size="16">location</text>
+      <text x="138" y="236" class="mono dim" font-size="16">=</text>
+      <text x="170" y="236" class="mono white" font-size="16">Malaysia</text>
+    </g>
+
+    <g transform="translate(44 508)">
+      <line x1="0" y1="0" x2="972" y2="0" class="softline"/>
+    </g>
+
+    <g transform="translate(44 540)">
+      <text x="0" y="0" class="mono dim" font-size="14">output:</text>
+      <text x="72" y="0" class="mono muted" font-size="14">prototypes · essays · workflows · open-source projects · finance/data systems</text>
+    </g>
+  </g>
+</svg>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/szeyu_banner.svg" alt="Sim Sze Yu Banner" width="100%">
+</p>
+
 <h1 align="center">Sim Sze Yu</h1>
 
 <p align="center">
@@ -33,11 +37,12 @@
   <a href="https://www.instagram.com/szeyusim/">
     <img src="https://img.shields.io/badge/Instagram-szeyusim-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=szeyu&style=flat-square&color=543DE0" alt="Profile Views">
 </p>
 
 ---
 
-## About Me
+## 👤 About Me
 
 I am a Computer Science student at **Universiti Malaya** who enjoys building systems at the intersection of **AI, finance, and data engineering**.
 
@@ -53,19 +58,19 @@ My work usually falls into four areas:
 <table>
   <tr>
     <td width="25%" align="center">
-      <h3>AI Agents</h3>
+      <h3>🤖 AI Agents</h3>
       <p>LLM workflows, RAG, MCP tools, orchestration, automation</p>
     </td>
     <td width="25%" align="center">
-      <h3>Finance Systems</h3>
+      <h3>📈 Finance Systems</h3>
       <p>Market data, backtesting, personal finance, investment research</p>
     </td>
     <td width="25%" align="center">
-      <h3>Data Engineering</h3>
+      <h3>🔧 Data Engineering</h3>
       <p>ETL pipelines, orchestration, data quality, cloud workflows</p>
     </td>
     <td width="25%" align="center">
-      <h3>Product Prototypes</h3>
+      <h3>🚀 Product Prototypes</h3>
       <p>Hackathon MVPs, AI web apps, fintech tools, developer utilities</p>
     </td>
   </tr>
@@ -73,7 +78,7 @@ My work usually falls into four areas:
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 <table>
   <tr>
@@ -81,26 +86,34 @@ My work usually falls into four areas:
     <th>What I am exploring</th>
   </tr>
   <tr>
-    <td><b>Agentic AI</b></td>
+    <td>🤖 <b>Agentic AI</b></td>
     <td>LLM orchestration, MCP, Claude Code workflows, RAG, tool-calling agents</td>
   </tr>
   <tr>
-    <td><b>Quant / Finance</b></td>
+    <td>📊 <b>Quant / Finance</b></td>
     <td>Autonomous alpha discovery, backtesting, market data pipelines, investment decision support</td>
   </tr>
   <tr>
-    <td><b>Data Engineering</b></td>
+    <td>🔩 <b>Data Engineering</b></td>
     <td>Data pipelines, orchestration, CI/CD, data quality, warehouse automation</td>
   </tr>
   <tr>
-    <td><b>Product Building</b></td>
+    <td>⚡ <b>Product Building</b></td>
     <td>Fast MVP development, AI-assisted engineering, workflow-first software design</td>
   </tr>
 </table>
 
 ---
 
-## Selected Work
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,postgres,docker,git,linux&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+## 📌 Selected Work
 
 <table>
   <tr>
@@ -126,7 +139,7 @@ My work usually falls into four areas:
 
 ---
 
-## Experience
+## 💼 Experience
 
 <table>
   <tr>
@@ -138,32 +151,35 @@ My work usually falls into four areas:
   <tr>
     <td><b>Data Engineering Intern</b></td>
     <td>Ryt Bank / YTL Digital Bank</td>
-    <td>Jul 2025 - Jan 2026</td>
+    <td>Jul 2025 – Jan 2026</td>
     <td>Data pipelines, orchestration, cloud data infrastructure</td>
   </tr>
   <tr>
     <td><b>Data Intern</b></td>
     <td>YTL AI Labs</td>
-    <td>Apr 2025 - Jun 2025</td>
-    <td>Data and AI systems</td>
+    <td>Apr 2025 – Jun 2025</td>
+    <td>Built web crawling scripts to collect training data; used LLMs to generate synthetic data for <a href="https://www.ilmu.ai/">ILMU</a>, Malaysia's homegrown LLM</td>
   </tr>
   <tr>
     <td><b>AI Fullstack Developer Intern</b></td>
     <td>EmbeddedLLM</td>
-    <td>Jul 2024 - Sep 2024</td>
-    <td>LLM application development</td>
+    <td>Jul 2024 – Sep 2024</td>
+    <td>Built full-stack AI applications with LLM backends; developed REST APIs, integrated third-party LLM providers, and shipped customer-facing web interfaces for LLM-powered features</td>
   </tr>
   <tr>
-    <td><b>Intern</b></td>
+    <td><b>Software Engineer Intern</b></td>
     <td>Techtics Solution Sdn Bhd</td>
-    <td>Apr 2024 - Jun 2024</td>
-    <td>Blockchain and software development</td>
+    <td>Apr 2024 – Jun 2024</td>
+    <td>Developed blockchain-based features and smart contract integrations; contributed to backend development and internal tooling</td>
   </tr>
 </table>
 
 ---
 
-## Hackathon Highlights
+## 🏆 Hackathon Highlights
+
+<details>
+<summary>🏆 View all hackathon highlights (18 events)</summary>
 
 <table>
   <tr>
@@ -173,120 +189,151 @@ My work usually falls into four areas:
     <th>Link</th>
   </tr>
   <tr>
-    <td><b>Top 10 Finalist</b></td>
+    <td>🥇 <b>Top 10 Finalist</b></td>
     <td>KitaHack 2026</td>
     <td>Personalised financial planner that visualises wealth growth</td>
     <td><a href="https://github.com/szeyu/open-ssyok-finance">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Consolation Prize</b></td>
+    <td>🎖️ <b>Consolation Prize</b></td>
     <td>UKM Data Challenge 2025</td>
     <td>Data insight on population and water stress across Malaysian states</td>
     <td><a href="https://github.com/szeyu/UKMDataChallenge25">Repository</a></td>
   </tr>
   <tr>
-    <td><b>2nd Runner Up</b></td>
+    <td>🥉 <b>2nd Runner Up</b></td>
     <td>Alibaba Cloud Malaysia AI Hackathon 2025</td>
     <td>FundSight AI: grant recommendation system for Malaysian SMEs</td>
     <td><a href="https://github.com/szeyu/FundSight-Ai">Repository</a></td>
   </tr>
   <tr>
-    <td><b>1st Runner Up</b></td>
+    <td>🥈 <b>1st Runner Up</b></td>
     <td>KitaHack 2025</td>
     <td>Medimate: healthcare management assistant</td>
     <td><a href="https://github.com/szeyu/Medimate-v3">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Consolation Prize</b></td>
+    <td>🎖️ <b>Consolation Prize</b></td>
     <td>VHack 2025</td>
     <td>Medimate: healthcare management assistant</td>
     <td><a href="https://github.com/szeyu/Medimate-v3">Repository</a></td>
   </tr>
   <tr>
-    <td><b>1st Runner Up</b></td>
+    <td>🥈 <b>1st Runner Up</b></td>
     <td>UMHackathon 2025</td>
     <td>AmanahBlock: Shariah-compliant AI and blockchain donation platform</td>
     <td><a href="https://github.com/szeyu/AmanahBlock">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>Deriv Hack 2025</td>
     <td>AI agent for dispute resolution using OCR and cross-checking tools</td>
     <td><a href="https://github.com/szeyu/DerivAIHack25">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Champion</b></td>
+    <td>🏆 <b>Champion</b></td>
     <td>UM Datathon 2024</td>
     <td>Bitcoin quant algorithmic trading strategy</td>
     <td><a href="https://github.com/szeyu/UMDatathon-24">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Top 10 Finalist</b></td>
+    <td>🥇 <b>Top 10 Finalist</b></td>
     <td>Deriv Hack 2024</td>
     <td>AI eKYC project</td>
     <td><a href="https://github.com/szeyu/Deriv-Hack">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Top 15 Finalist</b></td>
+    <td>🥇 <b>Top 15 Finalist</b></td>
     <td>Setel Hack 2024</td>
     <td>AI-powered chatbot for retail</td>
     <td><a href="https://github.com/szeyu/SetelHack24-AiMaaS">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>GodamLah 2024</td>
     <td>Enhanced AI eKYC project</td>
     <td><a href="https://github.com/szeyu/godamlah">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>PayHack 2024</td>
     <td>FinScope project</td>
     <td><a href="https://www.figma.com/slides/MufVO3sqMea8EsumCE1kjP/FinScope-(Pitch-Deck)?node-id=25-19&t=mDYAVsJ3J9f5okOa-1">Pitch Deck</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>MYHackathon24 Cohort 1</td>
     <td>StackOverflow-like website for public complaints</td>
     <td><a href="https://github.com/szeyu/sepadu-underflow">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>MYHackathon24 Cohort 2</td>
     <td>AI listener that flags suspicious phone calls</td>
     <td><a href="https://drive.google.com/drive/folders/166w-dbR2m_pwjuXoyDbcI3gAv0X-Z2kB?usp=sharing">Drive Folder</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>IHAX 2024</td>
     <td>Marketplace of PDF embeddings for learning materials</td>
     <td><a href="https://github.com/szeyu/IHAX-2024-HMIR">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>UMHackathon 2024</td>
     <td>Chat RAG with personal finance data</td>
     <td><a href="https://github.com/szeyu/PHMIR_umHack">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>KitaHack 2024</td>
     <td>Daily RUOK: daily mental health screening</td>
     <td><a href="https://github.com/szeyu/Daily-RUOK">Repository</a></td>
   </tr>
   <tr>
-    <td><b>Participant</b></td>
+    <td>🤝 <b>Participant</b></td>
     <td>1st Day Hack 2022</td>
     <td>Navigation support concept for visually impaired users</td>
     <td><a href="https://github.com/szeyu/1st_Day_Hack">Repository</a></td>
   </tr>
 </table>
 
+</details>
+
 ---
 
-## Writing
+## 📊 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=szeyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeyu&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szeyu&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="60%" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🖥️ Environment
+
+<p align="center">
+  <img src="assets/szeyu_os.svg" alt="Sim Sze Yu OS & Environment">
+</p>
+
+---
+
+## ✍️ Writing & Connect
 
 I write about AI, finance, software engineering, and building useful systems.
+Open to conversations around AI agents, data engineering, finance systems, quant research tooling, hackathons, and AI-assisted software engineering.
 
 <p>
   <a href="https://szeyusim.medium.com">
@@ -295,24 +342,17 @@ I write about AI, finance, software engineering, and building useful systems.
   <a href="https://www.linkedin.com/in/szeyusim/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
----
-
-## Contact
-
-I am open to conversations around AI agents, data engineering, finance systems, quant research tooling, hackathons, and AI-assisted software engineering.
-
-<p>
   <a href="mailto:szeyusim@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://ssyok.vercel.app">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/View%20Portfolio-543DE0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
-## Support
+---
+
+## ☕ Support
 
 <div align="center">
   <table>
